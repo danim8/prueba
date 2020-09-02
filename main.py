@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 14 19:13:21 2020
-
-@author:Daniel Merelas
-"""
-
-# Problema 1 de proyecto Euler
-# Solucion corta
-# Otro comentario
-
-print(sum(x for x in range(1000) if x%3==0 or x%5==0))
-prueba superadabbbccceeefff
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a40f2309f3ce8168a08d3c771de487409662155f3d2883a166866fd8c06ec20
+size 256
