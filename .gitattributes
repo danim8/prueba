@@ -2,4 +2,3 @@
 *.pro lockable
 *.py lockable
 main.py filter=lfs diff=lfs merge=lfs -text lockable
-p.py filter=lfs diff=lfs merge=lfs -text lockable
